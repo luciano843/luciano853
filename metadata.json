@@ -1,0 +1,9 @@
+{
+  "name": "Medidor de Obras LSS",
+  "description": "Assistente inteligente para registro e controle de obras viárias via chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
